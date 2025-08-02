@@ -84,17 +84,17 @@ README.md                     # Project documentation
 
 ## 🖼️ Screenshot
 
-### Initial Screen
-![Initial Screen](SS01.png)
+### 01
+![Wrong Guess](SS01.png)
+
+### 02
+![Wrong Guess](SS02.png)
+
+### POP Up, After a Correct Guess
+![Correct Guess](SS03.png)
 
 ### After a Correct Guess
-![Correct Guess](SS02.png)
-
-### After a Wrong Guess
-![Wrong Guess](SS03.png)
-
-### Game Over Screen
-![Game Over](SS04.png)
+![Final Screen](SS04.png)
 
 ---
 
@@ -111,7 +111,7 @@ README.md                     # Project documentation
 
 * **Internship Track**: Java Programming
 * **Internship Provider**: System Tron
-* **Week**: Week 1
+* **Week**: Week 01
 * **Task Name**: Guess the Number Game
 * **Environment**: Java with Swing for GUI
 
@@ -120,6 +120,6 @@ README.md                     # Project documentation
 ## 📬 Contact
 
 * **Your Name**
-* 📧 \[difina.georgecs@gmail.com]
+* 📧 \difina.georgecs@gmail.com
 * 📍 Kerala, India
 
