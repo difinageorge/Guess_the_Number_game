@@ -84,7 +84,17 @@ README.md                     # Project documentation
 
 ## 🖼️ Screenshot
 
-> *Include a screenshot of the Java GUI here (optional)*
+### Initial Screen
+![Initial Screen](SS01.png)
+
+### After a Correct Guess
+![Correct Guess](SS02.png)
+
+### After a Wrong Guess
+![Wrong Guess](SS03.png)
+
+### Game Over Screen
+![Game Over](SS04.png)
 
 ---
 
