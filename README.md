@@ -120,6 +120,6 @@ README.md                     # Project documentation
 ## 📬 Contact
 
 * **Your Name**
-* 📧 \difina.georgecs@gmail.com
+* 📧 difina.georgecs@gmail.com
 * 📍 Kerala, India
 
