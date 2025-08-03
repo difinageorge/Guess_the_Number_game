@@ -119,7 +119,7 @@ README.md                     # Project documentation
 
 ## 📬 Contact
 
-* **Your Name**
+* **DIFINA GEORGE**
 * 📧 difina.georgecs@gmail.com
 * 📍 Kerala, India
 
